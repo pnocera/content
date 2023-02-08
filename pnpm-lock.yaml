@@ -119,7 +119,7 @@ importers:
       '@nuxt-themes/docus': ^1.8.1
       '@nuxthq/studio': ^0.7.2
       '@nuxtlabs/github-module': ^1.6.1
-      monaco-editor-core: ^0.34.1
+      monaco-editor-core: ^0.35.0
       nuxt: 3.1.2
       vue-plausible: ^1.3.2
     devDependencies:
@@ -127,7 +127,7 @@ importers:
       '@nuxt-themes/docus': 1.8.1_nuxt@3.1.2
       '@nuxthq/studio': 0.7.2
       '@nuxtlabs/github-module': 1.6.1
-      monaco-editor-core: 0.34.1
+      monaco-editor-core: 0.35.0
       nuxt: 3.1.2
       vue-plausible: 1.3.2
 
@@ -7316,8 +7316,8 @@ packages:
       pkg-types: 1.0.1
       ufo: 1.0.1
 
-  /monaco-editor-core/0.34.1:
-    resolution: {integrity: sha512-RaYj0HGvKZjy7H3HCluhypExLi2Z7rpHVKc4KQ6iShqY3TW5cKGaETrr4wJ7aPz2UAWVtGmXNjea/BpoCAjY+w==}
+  /monaco-editor-core/0.35.0:
+    resolution: {integrity: sha512-bgH4X+uX+2M19S3tDUcVEWnsfkqvJtIIdUMMeQTAFCD7BmFZh1zPRMnM6ydmIPmbSTZIECOUcqodJZ6XrkHKZQ==}
     dev: true
 
   /mri/1.2.0:
